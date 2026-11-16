@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tokmeme-caption-svg"
+version = "0.1.0"
+description = "Generate lightweight SVG graphics for TokMeme workflows"
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+authors = [{name = "YananLee"}]
+classifiers = ["Programming Language :: Python :: 3", "Topic :: Multimedia :: Graphics"]
+
+[project.urls]
+Homepage = "https://tokmeme.com/"
+Source = "https://github.com/YananLee/tokmeme-caption-svg/tree/main/python"
+
+[tool.setuptools]
+py-modules = ["tokmeme_caption_svg"]

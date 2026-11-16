@@ -1,0 +1,13 @@
+{
+  "name": "tokmeme-caption-svg",
+  "version": "0.1.0",
+  "description": "Render a captioned meme as an SVG overlay",
+  "type": "module",
+  "exports": { ".": { "types": "./index.d.ts", "default": "./index.js" } },
+  "files": ["index.js", "index.d.ts", "README.md", "LICENSE"],
+  "scripts": { "test": "node --test" },
+  "keywords": ["meme", "caption", "svg", "image"],
+  "homepage": "https://tokmeme.com/",
+  "repository": { "type": "git", "url": "git+https://github.com/YananLee/tokmeme-caption-svg.git" },
+  "license": "MIT"
+}

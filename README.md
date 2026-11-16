@@ -14,3 +14,5 @@ writeFileSync('meme.svg', renderMeme({ top: 'WHEN IT WORKS', bottom: 'ON THE FIR
 ```
 
 Options: `width`, `height`, and `background`. Remote image URLs remain external references in the SVG. MIT licensed, no runtime dependencies.
+
+RubyGems source and tests are in [`ruby/`](./ruby/). Install with `gem install tokmeme_caption_svg`.

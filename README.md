@@ -23,4 +23,4 @@ Small local SVG utilities are maintained in [`python/`](./python/), [`jsr/`](./j
 
 - JSR: [`@yananlee/tokmeme-caption-svg`](https://jsr.io/@yananlee/tokmeme-caption-svg)
 - Rust: [`tokmeme-caption-svg`](https://crates.io/crates/tokmeme-caption-svg)
-- Python: `tokmeme-caption-svg` source and built distributions are ready in `python/`; PyPI upload is pending an account publishing credential.
+- Python: `tokmeme-caption-svg` source and built distributions are ready in [`python/`](./python/); PyPI currently limits creation of new projects, so publication is pending.

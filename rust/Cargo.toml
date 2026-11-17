@@ -1,0 +1,14 @@
+[package]
+name = "tokmeme-caption-svg"
+version = "0.1.0"
+edition = "2021"
+description = "Generate lightweight SVG graphics for TokMeme workflows"
+license = "MIT"
+homepage = "https://tokmeme.com/"
+repository = "https://github.com/YananLee/tokmeme-caption-svg"
+readme = "README.md"
+keywords = ["svg", "graphics", "animation"]
+categories = ["graphics", "visualization"]
+include = ["src/**", "Cargo.toml", "README.md", "LICENSE"]
+
+[dependencies]
